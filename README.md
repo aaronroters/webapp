@@ -110,6 +110,7 @@ To use the application, follow these steps:
 ## Configuration
 
 Configuring the application is mainly achieved by manipulationg the ENV variables.
+If you plan to use the pre-configured guthub actions, go ahead and change the variables in the specific action yaml files.
 
 ## Components
 
