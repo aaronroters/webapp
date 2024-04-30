@@ -1,6 +1,6 @@
-# PlatzKiecker
+# [Project Name]
 
-PlatzKiecker is a project that aims to implement a table management system for restaurants.
+Brief Project Description.
 
 ## Table of Contents
 
@@ -32,8 +32,8 @@ Before getting started, make sure you have the following installed:
 
 To set up the development environment, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/PlatzKiecker/platzkiecker.git`
-2. Navigate to the project directory: `cd platzkiecker`
+1. Clone the repository: `git clone <link-to-repository>`
+2. Navigate to the project directory: `cd <repository-name>`
 3. Create a `.env.dev` file in the project root directory and add the necessary environment variables for development.
     ```bash
     DEBUG=1
@@ -64,8 +64,8 @@ To use the application, follow these steps:
 ## Production Environment Setup
 
 To set up the production environment, follow these steps:
-1. Clone the repository: `git clone https://github.com/PlatzKiecker/platzkiecker.git`
-2. Navigate to the project directory: `cd platzkiecker`
+1. Clone the repository: `git clone <link-to-repository>`
+2. Navigate to the project directory: `cd <repository-name>`
 3. Create a `.env.prod` file in the project root directory and add the necessary environment variables for production.
     ```bash
     DEBUG=0
